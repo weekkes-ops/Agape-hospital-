@@ -1,0 +1,6 @@
+{
+  "name": "The Royal Agape HMIS",
+  "description": "Enterprise Hospital Management Information System for The Royal Agape Medical Centre (Freetown, Sierra Leone) featuring patient EMR records, appointment scheduling, diagnostic ultrasound/lab tracking, and automated billing workflows.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
